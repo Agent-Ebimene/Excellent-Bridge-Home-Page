@@ -14,7 +14,6 @@ closBtn.addEventListener("click", () => {
 companyLogo.addEventListener("click", () => {
   sideMenu.classList.add("visible");
 });
-alert("Hey");
 
 // // var slider = tns({
 // //   container: ".testimony-section",
